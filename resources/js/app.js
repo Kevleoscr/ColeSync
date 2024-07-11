@@ -1,4 +1,6 @@
 import './bootstrap';
+//import '~bootstrap/scss/bootstrap';
+
 
 import Alpine from 'alpinejs';
 
